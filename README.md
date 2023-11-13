@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A code writer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan8526&label=Profile%20views&color=0e75b6&style=flat" alt="rayan8526" /> </p>
 
